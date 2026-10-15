@@ -1,0 +1,21 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "org.franz.deskmusic",
+    "Name": "Desk Music",
+    "Description": "Apple-style music widget for the desktop (MPRIS)",
+    "Icon": "media-playback-start",
+    "Category": "Multimedia",
+    "Authors": [
+      {
+        "Name": "Fynn7909"
+      }
+    ],
+    "Version": "1.1",
+    "License": "GPL-2.0+",
+    "Website": "https://github.com/Fynn7909/plasma-deskmusic",
+    "Description[de]": "Musiksteuerung im Apple-Stil für den Desktop (MPRIS)",
+    "Name[de]": "Desktop-Musik"
+  }
+}
