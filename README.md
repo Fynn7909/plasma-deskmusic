@@ -1,8 +1,8 @@
 # Desk Music
 
-Musik-Widget im Apple-Stil für den KDE-Plasma-6-Desktop. Steuert jeden Player, der MPRIS kann (Spotify, Firefox, Chrome, VLC, …).
+Musik-Widget mit Glas-Look für den KDE-Plasma-6-Desktop. Steuert jeden Player, der MPRIS kann (Spotify, Firefox, Chrome, VLC, …).
 
-*Apple-style music widget for the KDE Plasma 6 desktop. Controls any MPRIS player.*
+*Frosted-glass music widget for the KDE Plasma 6 desktop. Controls any MPRIS player.*
 
 ## Funktionen
 

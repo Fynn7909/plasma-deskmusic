@@ -46,7 +46,7 @@ PlasmoidItem {
     }
     Timer { id: directionReset; interval: 2500; onTriggered: root.direction = 0 }
 
-    // Farbe des Covers für eine leichte Tönung des Glases (wie Apple Music)
+    // Farbe des Covers für eine leichte Tönung des Glases
     Image {
         id: tintSource
         visible: false
